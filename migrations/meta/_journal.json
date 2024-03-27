@@ -15,6 +15,13 @@
       "when": 1711484449144,
       "tag": "0001_premium_robbie_robertson",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1711485914458,
+      "tag": "0002_hot_russian",
+      "breakpoints": true
     }
   ]
 }

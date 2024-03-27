@@ -57,6 +57,7 @@ export const files = pgTable('files', {
     })
 })
 
+//created by supabase 
 export const subscriptions = pgTable("subscriptions", {
 	id: text("id").primaryKey().notNull(),
 	userId: uuid("user_id").notNull().references(() => users.id),
